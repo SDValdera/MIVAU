@@ -36,6 +36,9 @@
       "@language": "es"
     },
     "dct:identifier": "https://www.mivau.gob.es/catalogo",
+    "dcat:themeTaxonomy": {
+      "@id": "http://datos.gob.es/kos/sector-publico/sector"
+    },
     "dct:publisher": {
       "@id": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E05233601"
     },
@@ -423,9 +426,6 @@
     },
     "dcat:packageFormat": {
       "@id": "To be defined"
-    },
-    "dcat:themeTaxonomy": {
-      "@id": "http://datos.gob.es/kos/sector-publico/sector"
     },
     "dcat:mediaType": {
       "@id": "To be defined"
