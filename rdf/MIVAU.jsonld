@@ -248,7 +248,7 @@
       "@id": "To be defined"
     },
     "dcat:downloadURL": {
-      "@id": "https://cdn.mivau.gob.es/portal-web-mivau/Datos_MIVAU/CSV/VDP002.csv"
+      "@id": "https://github.com/SDValdera/MIVAU/tree/main/csv/VDP002.csv"
     },
     "dcat:packageFormat": {
       "@id": "To be defined"
@@ -419,7 +419,7 @@
       "@id": "To be defined"
     },
     "dcat:downloadURL": {
-      "@id": "To be defined"
+      "@id": "https://github.com/SDValdera/MIVAU/tree/main/csv/VDP001.csv"
     },
     "dcat:packageFormat": {
       "@id": "To be defined"
