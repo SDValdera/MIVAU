@@ -1,3 +1,5 @@
+<script type="application/ld+json">
+ 
 [
   {
     "@context": {
@@ -432,3 +434,4 @@
     }
   }
 ]
+</script>
