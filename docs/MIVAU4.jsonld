@@ -42,9 +42,7 @@
     "dct:publisher": {
       "@id": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E05233601"
     },
-    "dct:language": {
-      "@id": "http://publications.europa.eu/resource/authority/language/SPA"
-    },
+    "dct:language": "es",
     "foaf:homepage": [
       {
         "@id": "https://www.mivau.gob.es"
@@ -130,9 +128,7 @@
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
       }
     ],
-     "dct:language": {
-      "@id": "http://publications.europa.eu/resource/authority/language/SPA"
-    },
+    "dct:language": "es",
     "dct:accrualPeriodicity": {
       "@id": "http://publications.europa.eu/resource/authority/frequency/ANNUAL"
     },
@@ -223,9 +219,7 @@
     "foaf:page": {
       "@id": "To be defined"
     },
-     "dct:language": {
-      "@id": "http://publications.europa.eu/resource/authority/language/SPA"
-    },
+    "dct:language": "es",
     "dct:issued": [
       {
         "@value": "2025-10-24T00:00:00+01:00",
@@ -301,9 +295,7 @@
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
       }
     ],
-     "dct:language": {
-      "@id": "http://publications.europa.eu/resource/authority/language/SPA"
-    },
+    "dct:language": "es",
     "dct:accrualPeriodicity": {
       "@id": "http://publications.europa.eu/resource/authority/frequency/ANNUAL"
     },
@@ -394,9 +386,7 @@
     "foaf:page": {
       "@id": "To be defined"
     },
-     "dct:language": {
-      "@id": "http://publications.europa.eu/resource/authority/language/SPA"
-    },
+    "dct:language": "es",
     "dct:issued": [
       {
         "@value": "2026-01-15T00:00:00+01:00",
