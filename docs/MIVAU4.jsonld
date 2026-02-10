@@ -43,8 +43,7 @@
       "@id": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E05233601"
     },
     "dct:language": {
-      "@value": "http://publications.europa.eu/resource/authority/language/SPA.",
-      "@language": "es"
+      "@id": "http://publications.europa.eu/resource/authority/language/SPA"
     },
     "foaf:homepage": [
       {
@@ -132,8 +131,7 @@
       }
     ],
      "dct:language": {
-      "@value": "http://publications.europa.eu/resource/authority/language/SPA.",
-      "@language": "es"
+      "@id": "http://publications.europa.eu/resource/authority/language/SPA"
     },
     "dct:accrualPeriodicity": {
       "@id": "http://publications.europa.eu/resource/authority/frequency/ANNUAL"
@@ -226,8 +224,7 @@
       "@id": "To be defined"
     },
      "dct:language": {
-      "@value": "http://publications.europa.eu/resource/authority/language/SPA.",
-      "@language": "es"
+      "@id": "http://publications.europa.eu/resource/authority/language/SPA"
     },
     "dct:issued": [
       {
@@ -305,8 +302,7 @@
       }
     ],
      "dct:language": {
-      "@value": "http://publications.europa.eu/resource/authority/language/SPA.",
-      "@language": "es"
+      "@id": "http://publications.europa.eu/resource/authority/language/SPA"
     },
     "dct:accrualPeriodicity": {
       "@id": "http://publications.europa.eu/resource/authority/frequency/ANNUAL"
@@ -399,8 +395,7 @@
       "@id": "To be defined"
     },
      "dct:language": {
-      "@value": "http://publications.europa.eu/resource/authority/language/SPA.",
-      "@language": "es"
+      "@id": "http://publications.europa.eu/resource/authority/language/SPA"
     },
     "dct:issued": [
       {
