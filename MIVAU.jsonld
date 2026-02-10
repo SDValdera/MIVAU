@@ -40,7 +40,7 @@
       "@id": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E05233601"
     },
     "dct:language": {
-      "@id": "http://publications.europa.eu/resource/authority/language/SPA"
+      "@id": "es"
     },
     "foaf:homepage": [
       {
@@ -128,7 +128,7 @@
       }
     ],
     "dct:language": {
-      "@id": "http://publications.europa.eu/resource/authority/language/SPA"
+      "@id": "es"
     },
     "dct:accrualPeriodicity": {
       "@id": "http://publications.europa.eu/resource/authority/frequency/ANNUAL"
@@ -221,7 +221,7 @@
       "@id": "To be defined"
     },
     "dct:language": {
-      "@id": "http://publications.europa.eu/resource/authority/language/SPA"
+      "@id": "es"
     },
     "dct:issued": [
       {
@@ -299,7 +299,7 @@
       }
     ],
     "dct:language": {
-      "@id": "http://publications.europa.eu/resource/authority/language/SPA"
+      "@id": "es"
     },
     "dct:accrualPeriodicity": {
       "@id": "http://publications.europa.eu/resource/authority/frequency/ANNUAL"
@@ -392,7 +392,7 @@
       "@id": "To be defined"
     },
     "dct:language": {
-      "@id": "http://publications.europa.eu/resource/authority/language/SPA"
+      "@id": "es"
     },
     "dct:issued": [
       {
@@ -423,6 +423,9 @@
     },
     "dcat:packageFormat": {
       "@id": "To be defined"
+    },
+    "dcat:themeTaxonomy": {
+      "@id": "http://datos.gob.es/kos/sector-publico/sector"
     },
     "dcat:mediaType": {
       "@id": "To be defined"
